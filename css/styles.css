@@ -255,6 +255,13 @@ img {
   padding-top: 120px;
 }
 
+.portfolio-ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding-bottom: 120px;
+}
+
 .our-portfolio {
   font-weight: 700;
   font-size: 36px;
